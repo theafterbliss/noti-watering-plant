@@ -2,7 +2,7 @@
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 
-char auth[] = "266daf664d9342a8b3103176d068623b";  //code sent via email
+char auth[] = "e4344a435185480581a7e8125d1f7581";  //code sent via email
 const int sensorPin = 4; 
 int sensorState = 0;
 int lastState = 0;
